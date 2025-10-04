@@ -30,3 +30,12 @@ your-vault/
             ├── theme.css
             └── manifest.json
 ```
+
+### Developer
+
+Developed by n0p5l1d3r
+https://paypal.me/theoptech
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
