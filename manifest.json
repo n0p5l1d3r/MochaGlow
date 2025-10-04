@@ -1,0 +1,10 @@
+{
+  "name": "MochaGlow",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "A soothing, dark theme for Obsidian with Catppuccin Mocha-inspired pastel colors and clean typography for enhanced readability.",
+  "author": "Adapted by Grok from NeonHack by n0p5l1d3r (Dilanka Kaushal Hewage)",
+  "author": "n0p5l1d3r",
+  "authorUrl": "https://github.com/n0p5l1d3r",
+  "isDesktopOnly": false
+}
