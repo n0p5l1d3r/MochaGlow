@@ -33,7 +33,7 @@ your-vault/
 
 ### Developer
 
-- Developed by n0p5l1d3r
+- Developed by `n0p5l1d3r`
 - https://paypal.me/theoptech
 
 ### License
